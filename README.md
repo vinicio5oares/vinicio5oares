@@ -1,50 +1,115 @@
 # 👋 Olá, eu sou o Vinício Soares
 
-💻 Desenvolvedor Front-end em formação
-🎓 Estudante de Expressão Gráfica (UFPE)
-🚀 Focado em React e TypeScript
+💻 Desenvolvedor Front-end em formação  
+🎓 Estudante de Expressão Gráfica na UFPE  
+⚛️ Focado em React, TypeScript e desenvolvimento de aplicações web modernas  
 
-Tenho formação técnica em redes de computadores e experiência em ensino, o que contribui para uma abordagem organizada, didática e focada na resolução de problemas.
-
----
-
-## 📌 Projeto em destaque
-
-### 🏋️ Sistema de Gestão para Academia
-
-Aplicação web para gerenciamento de alunos, treinos e avaliações físicas, com foco em organização de dados e experiência do usuário.
-
-Inclui um sistema de gamificação para incentivar consistência e engajamento dos alunos.
+Tenho formação técnica em Redes de Computadores e experiência com ensino, o que contribuiu para desenvolver organização, comunicação e resolução de problemas. Atualmente estudo programação com foco em desenvolvimento front-end e construção de aplicações completas.
 
 ---
 
-## 🛠️ Tecnologias
+# 🚀 Projeto em destaque
 
-* React
-* TypeScript
-* JavaScript
-* Python
-* SQL
-* HTML & CSS
+## 🏋️ Sistema de Gestão para Academia
 
----
+Aplicação web desenvolvida para gerenciamento de alunos, treinos e avaliações físicas.
 
-## 📈 Em desenvolvimento
+### Funcionalidades
+- Cadastro de alunos
+- Organização de treinos
+- Controle de avaliações físicas
+- Interface responsiva
+- Estrutura escalável para futuras integrações
 
-* Aplicações React mais completas
-* Integração com APIs
-* Boas práticas de arquitetura front-end
+### Tecnologias utilizadas
+- React
+- TypeScript
+- JavaScript
+- HTML
+- CSS
 
----
-
-## 🎯 Diferenciais
-
-* Experiência com ensino e comunicação
-* Base técnica em redes de computadores
-* Facilidade em organização e documentação
+📌 Objetivo do projeto:
+Criar uma aplicação moderna focada em organização de dados, experiência do usuário e arquitetura front-end.
 
 ---
 
-## 📫 Contato
+# 🛠️ Tecnologias
 
-* GitHub: https://github.com/vinicio5soares
+### Front-end
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+
+### Back-end e banco de dados
+- Python
+- SQL
+
+### Ferramentas
+- Git
+- GitHub
+- VS Code
+- Figma
+
+---
+
+# 📚 Atualmente estudando
+
+- Arquitetura Front-end
+- Consumo de APIs REST
+- Componentização em React
+- TypeScript avançado
+- Responsividade e UI/UX
+- Boas práticas de desenvolvimento
+
+---
+
+# 🎯 Objetivos profissionais
+
+Busco uma oportunidade de estágio na área de desenvolvimento para evoluir tecnicamente, participar de projetos reais e adquirir experiência prática no mercado de tecnologia.
+
+Tenho interesse principal em:
+- Front-end
+- Desenvolvimento Web
+- React
+- Interfaces modernas
+- Experiência do usuário
+
+---
+
+# 📌 Diferenciais
+
+✔️ Formação técnica em Redes de Computadores  
+✔️ Facilidade em comunicação e ensino  
+✔️ Organização e documentação de projetos  
+✔️ Facilidade de aprendizado  
+✔️ Comprometimento com evolução contínua  
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicio5oares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicio5oares&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📫 Contato
+
+📧 Email: vinicio.profissional@outlook.com
+💼 LinkedIn: https://www.linkedin.com/in/vinicio-soares/ 
+🐙 GitHub: https://github.com/vinicio5oares
+
+---
+
+<div align="center">
+
+### Obrigado por visitar meu perfil 🚀
+
+</div>
